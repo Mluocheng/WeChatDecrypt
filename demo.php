@@ -2,7 +2,7 @@
 
 include_once "wxBizDataCrypt.php";
 
-
+//修复bug
 $appid = 'wx1e4785fa849e936c';
 $sessionKey = 'OaGZH0YKQlLI5bxs5H64tw==';
 
